@@ -1,0 +1,35 @@
+
+html, body{
+
+    margin: 0px;
+  
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    background: darkgreen;
+    color: white;
+    
+}
+
+.titulo{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;  
+    font-size: 20px;
+}
+
+.carta {
+    position: relative;
+    width: 120px;
+    left: 100px;
+    margin-left: -50px;
+    border-radius: 10px;
+}
+
+#computadora-cartas, #jugador-cartas{
+
+    height: 180px;
+    
+}
+
+
